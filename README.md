@@ -9,19 +9,19 @@ Using TensorFlow to translate Sign Language in real-time. Final Release
 The Sign Language Translator is my hackathon project for Hacksrm and the ⚡#PoweredByTF 2.0 Challenge!. Its purpose is to allow users to communicate more effectively with their computers and other people. To be specific, using this program, you can sign multiple words with one gesture and copy the translated text with the click of a button. Additionally, users can video call each other and talk using gestures that get converted into Computer Speech.
 
 Features
- *Hand Gesture Training and Classification
- *Prediction works in varying Lighting Conditions
- Retrainable Image Classes
- Translated Text can be Copied to Clipboard
- Cards that display Information about each Gesture
- Video Call functionality
- Text to Speech of translated text
- Minimal stress on memory
- Cohesive Text Styling
- Simple User Interface
- Comprehensive Commenting
-Live Sign Translator on https://priceless-bartik-0d3962.netlify.com/
-To Run locally
-Open index.html in Chrome.
+ #Hand Gesture Training and Classification
+ #Prediction works in varying Lighting Conditions
+ #Retrainable Image Classes
+ #Translated Text can be Copied to Clipboard
+ #Cards that display Information about each Gesture
+ #Video Call functionality
+ #Text to Speech of translated text
+ #Minimal stress on memory
+ #Cohesive Text Styling
+ #Simple User Interface
+ #Comprehensive Commenting
+#Live Sign Translator on https://priceless-bartik-0d3962.netlify.com/
+#To Run locally
+#Open index.html in Chrome.
 NOTE: This will disable video call functionality.
 
