@@ -60,6 +60,7 @@ Classifiers
 After obtaining the baf of features model, we are set to predict results for new raw images to test our model. Following classifiers are used :
 
 K-Nearest Neighbours
+
 Convolution Neaural Network
 
 
